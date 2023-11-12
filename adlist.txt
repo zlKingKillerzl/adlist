@@ -1,2 +1,3 @@
-0.0.0.0 googleads.g.doubleclick.net
-0.0.0.0 adclick.g.doubleclick.net
+googleads.g.doubleclick.net
+adclick.g.doubleclick.net
+doubleclick.net
